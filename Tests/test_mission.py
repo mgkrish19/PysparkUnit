@@ -1,7 +1,7 @@
 import pytest
 
-from krish.spark import get_spark
-from krish.mission import with_life_goal
+from Krish.spark import get_spark
+from Krish.mission import with_life_goal
 
 class TestMission(object):
 
