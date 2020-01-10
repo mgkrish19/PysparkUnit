@@ -5,5 +5,5 @@ from functools import lru_cache
 def get_spark():
     return (SparkSession.builder
                 .master("local")
-                .appName("krish")
+                .appName("Krish")
                 .getOrCreate())
